@@ -1,0 +1,26 @@
+.message{
+    padding:10px;
+    margin:10px;
+    width: fit-content;
+    max-width: 75%
+}
+
+.message__user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important ;
+}
+
+.message__userCard{
+    background-color: #0b81ff !important ;
+    word-wrap: break-word;
+}
+
+.message__guestCard{
+    background-color: #e9e9eb !important ;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+
+/* BEM */
